@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "id": 519642417,
+      "name": "android-business-card-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android-business-card-app",
+      "description": "App de criação e compartilhamento de cartões de visita. Versão com correção de compartilhamento para versões < Q e tratamentos na inclusão de cartões.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519326957,
+      "name": "android-calendar-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android-calendar-app",
+      "description": "Exemplo de criação de evento no calendário",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519379529,
+      "name": "android-camera-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android-camera-app",
+      "description": "Exemplo de acesso à camera do dispositivo",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519351881,
+      "name": "android-gallery-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android-gallery-app",
+      "description": "Exemplo de acesso à galeria do dispositivo e seleção de imagens",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519410051,
+      "name": "android-location-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android-location-app",
+      "description": "Exemplo de permissões, acesso e manipulação de localizações",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519449270,
+      "name": "android-wearable-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android-wearable-app",
+      "description": "Exemplo de integração entre Smartphone e Smartwatch",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 519343645,
+      "name": "android_contacts_app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/android_contacts_app",
+      "description": "Exemplo de acesso a contatos do dispositivo",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 517230282,
+      "name": "api-collections",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/api-collections",
+      "description": "Collections em Kotlin",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 517166090,
+      "name": "bootcamp_mobile_developer",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/bootcamp_mobile_developer",
+      "description": "Repositório dedicado ao conteúdo do bootcamp de Mobile Developer",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 517151125,
+      "name": "dio-desafio-github-primeiro-repositorio",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/dio-desafio-github-primeiro-repositorio",
+      "description": "Desafio de Projeto sobre Git/GitHub",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 519014521,
+      "name": "imc-calculator-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/imc-calculator-app",
+      "description": "Calculadora simples de IMC",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 516982216,
+      "name": "livro-receitas",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/livro-receitas",
+      "description": "Projeto livro de receitas",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 517460049,
+      "name": "matches-simulator-api",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/matches-simulator-api",
+      "description": "Respositório que simula uma API REST para obtenção de partidas",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 517398879,
+      "name": "matches-simulator-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/matches-simulator-app",
+      "description": "App android nativo de Simulação de Partidas",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 519679304,
+      "name": "movies-list-api",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/movies-list-api",
+      "description": "API do Movies List através do GitHub Pages",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 519693795,
+      "name": "movies-list-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/movies-list-app",
+      "description": "App de listagem de filmes com suas sinopses, utilizando MVVM e Clean Architecture. A listagem de filmes é provida pelo projeto movies-list-api através do GitHub Pages.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 517782133,
+      "name": "soccer-news-api",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/soccer-news-api",
+      "description": "API do Soocer News App através do GitHub Pages",
+      "stargazers_count": 0,
+      "language": ""
+    },
+    {
+      "id": 517580072,
+      "name": "soccer-news-app",
+      "owner": {
+        "login": "marcosnakahara",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29683797?v=4"
+      },
+      "html_url": "https://github.com/marcosnakahara/soccer-news-app",
+      "description": "Desafio de projeto - Aplicativo de notícias sobre futebol feminino",
+      "stargazers_count": 0,
+      "language": "Java"
+    }
+  ]
+}
